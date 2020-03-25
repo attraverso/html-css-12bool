@@ -1,0 +1,23 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.titlebox {
+  text-align: center;
+  font-size: 30px;
+  background-color: lightcoral;
+}
+
+.setup {
+  background-color: purple;
+  border: 1px solid white;
+  height: 50px;
+}
+
+.setup-2 {
+  background-color: darkblue;
+  border: 1px solid yellow;
+  height: 50px;
+}
