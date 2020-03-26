@@ -1,0 +1,16 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.redbox {
+  height: 10px;
+  background-color: purple/*#970000*/;
+  font-size: 10px;
+  color: orange;
+}
+
+.whitebox {
+  height: 10px;
+}
